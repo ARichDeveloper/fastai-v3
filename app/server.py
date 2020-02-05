@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/s/o9gjfh6mpe6tbmi/export.pkl?raw=1'
+export_file_url = 'https://www.dropbox.com/s/izy2c9bvv2757vz/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
 classes = ['cricket', 'baseball']
